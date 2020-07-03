@@ -1,9 +1,7 @@
-[
-  {
-      "user_no": "12345",
-      "market": "en_GB",
-      "scenario_id": "scenario_1",
-      "FLIP_FLOP_DF": "1",
-      "LAST_EVENT_TIMESTAMP_NUM": "1593602191001"
-  }
-]
+{
+    "user_no": "12345",
+    "market": "en_GB",
+    "scenario_id": "scenario_1",
+    "FLIP_FLOP_DF": "1",
+    "LAST_EVENT_TIMESTAMP_NUM": "1593602191001"
+}
